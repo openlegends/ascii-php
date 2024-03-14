@@ -1,0 +1,17 @@
+{
+    "name": "openlegends/ascii",
+    "description": "ASCII Library for OpenLegends Art",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Openlegends\\Ascii\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "OpenLegends"
+        }
+    ],
+    "require": {}
+}
